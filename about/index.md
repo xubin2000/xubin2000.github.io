@@ -21,7 +21,9 @@ feature: https://xubin2000.github.io/assets/img/about/about2.jpg
 
 ## 项目计划
 
-#### 1.商品秒杀项目技术栈  
+#### 1.商品秒杀项目
+- 高并发项目
+- 技术栈  
   
 | 技术栈 | 描述 | 角色 |  
 | ---- | ---- | ---- |  

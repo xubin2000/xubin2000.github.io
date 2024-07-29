@@ -63,6 +63,7 @@ feature: https://xubin2000.github.io/assets/img/about/about2.jpg
 | *Nacos* | 更易于构建云原生应用的动态服务发现、配置管理和服务管理平台 | 服务发现与配置管理 |  
 | *Gateway* | 基于Spring Framework构建的API网关，为微服务架构提供简单有效的路由及过滤器功能 | API网关 |  
 | *Alibaba OSS* | 阿里云对象存储服务，提供海量、安全、低成本、高可靠的云存储服务 | 对象存储 |
+
 ## 找工作的方向
 
     Java后端开发
